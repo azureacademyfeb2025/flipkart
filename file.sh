@@ -1,1 +1,2 @@
 useradd harish
+useradd lohith
